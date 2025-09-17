@@ -99,4 +99,6 @@ Includes monthly and seasonal rainfall values: `Jun-Sep`, `JUN`, `MAY`, `Mar-May
 ---
 
 ## 👩‍💻 Author
-Your Name – [@yourusername](https://github.com/yourusername)
+Hussain Kachwala (Group Leader) 
+Nishant Tapikar
+Nitish Gharde
