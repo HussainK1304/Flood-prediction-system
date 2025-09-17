@@ -99,6 +99,6 @@ Includes monthly and seasonal rainfall values: `Jun-Sep`, `JUN`, `MAY`, `Mar-May
 ---
 
 ## 👩‍💻 Author
-Hussain Kachwala (Group Leader) 
-Nishant Tapikar
-Nitish Gharde
+- Hussain Kachwala (Group Leader) 
+- Nishant Tapikar
+- Nitish Gharde
